@@ -5,7 +5,7 @@
 ## 📫 How to reach me temonntsk01@gmail.com
 
 ## 🌍 I speak Russian (native), English (B2)
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/temonntsk) 
+[![codewars](https://www.codewars.com/users/temonntsk/badges/small)](https://www.codewars.com/temonntsk) 
 <!--
 **temonntsk/temonntsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
