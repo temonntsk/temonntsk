@@ -5,7 +5,7 @@
 ## 📫 How to reach me temonntsk01@gmail.com
 
 ## 🌍 I speak Russian (native), English (B2)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temonntsk)](https://github.com/temonntsk/github-readme-stats)
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/temonntsk) 
 <!--
 **temonntsk/temonntsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
