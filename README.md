@@ -1,11 +1,15 @@
 ## Hi there 👋
 
 ## 🌱 I’m currently learning C#, Unity, .net
-
 ## 📫 How to reach me temonntsk01@gmail.com
-
 ## 🌍 I speak Russian (native), English (B2)
+
 [![codewars](https://www.codewars.com/users/temonntsk/badges/small)](https://www.codewars.com/temonntsk) 
+
+### Connect with me:
+<p align="left">
+<a href="https://t.me/ARTEM_ntsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+</p>
 <!--
 **temonntsk/temonntsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
