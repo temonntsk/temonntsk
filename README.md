@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 🌱 I’m currently learning C#, Unity, .net
+
+## 📫 How to reach me temonntsk01@gmail.com
+
+## 🌍 I speak Russian (native), English (B2)
+
 <!--
 **temonntsk/temonntsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
